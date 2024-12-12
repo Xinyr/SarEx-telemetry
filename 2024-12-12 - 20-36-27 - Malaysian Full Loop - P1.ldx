@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<LDXFile Version="1.6">
+ <Layers>
+  <Details>
+   <String Id="Total Laps" Value="0"/>
+   <String Id="Fastest Time" Value="0:00.000"/>
+   <String Id="Fastest Lap" Value="0"/>
+   <Numeric Id="_Setup_LFenderFlare" Value="Non-adjustable"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_RFenderFlare" Value="Non-adjustable"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_FW" Value="35.0"  Unit="deg" DPS="3"/>
+   <Numeric Id="_Setup_RW" Value="10"  Unit="deg" DPS="3"/>
+   <Numeric Id="_Setup_WaterRadiator" Value="1"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_OilRadiator" Value=""  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_BrakeDuct" Value="1"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_BrakeDuctRear" Value="1"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_FrontWheelTrack" Value="Non-adjustable"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_RearWheelTrack" Value="Non-adjustable"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_FrontAntiSway" Value="22.5mm90mm"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_RearAntiSway" Value="15.0mm100mm"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_FrontToeIn" Value="-0.333"  Unit="deg" DPS="3"/>
+   <Numeric Id="_Setup_FrontToeOffset" Value="N/A"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_RearToeIn" Value="0"  Unit="deg" DPS="3"/>
+   <Numeric Id="_Setup_RearToeOffset" Value="N/A"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_LeftCaster" Value="10.0"  Unit="deg" DPS="3"/>
+   <Numeric Id="_Setup_RightCaster" Value="10.0"  Unit="deg" DPS="3"/>
+   <Numeric Id="_Setup_LeftTrackBar" Value="N/A"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_RightTrackBar" Value="N/A"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_Front3rdPacker" Value="N/A"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_Front3rdSpring" Value="N/A"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_Front3rdTenderSpring" Value="0"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_Front3rdTenderTravel" Value="0"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_Front3rdSlowBump" Value="N/A"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_Front3rdFastBump" Value="N/A"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_Front3rdSlowRebound" Value="N/A"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_Front3rdFastRebound" Value="N/A"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_Rear3rdPacker" Value="N/A"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_Rear3rdSpring" Value="N/A"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_Rear3rdTenderSpring" Value="0"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_Rear3rdTenderTravel" Value="0"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_Rear3rdSlowBump" Value="N/A"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_Rear3rdFastBump" Value="N/A"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_Rear3rdSlowRebound" Value="N/A"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_Rear3rdFastRebound" Value="N/A"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_ChassisAdj00" Value="BE24"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_ChassisAdj01" Value="STD"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_ChassisAdj02" Value="N/A"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_ChassisAdj03" Value="N/A"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_ChassisAdj04" Value="N/A"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_ChassisAdj05" Value="N/A"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_ChassisAdj06" Value="N/A"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_ChassisAdj07" Value="N/A"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_ChassisAdj08" Value="N/A"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_ChassisAdj09" Value="N/A"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_ChassisAdj10" Value="N/A"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_ChassisAdj11" Value="N/A"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_SteerLock" Value="432 (18)"  Unit="deg" DPS="3"/>
+   <Numeric Id="_Setup_RearBrake" Value="57.1"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_BrakePressure" Value="70 kgf (70"  Unit="%" DPS="3"/>
+   <Numeric Id="_Setup_HandfrontbrakePress" Value=""  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_HandbrakePress" Value="N/A"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_TC" Value="Aid"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_ABS" Value="Aid"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_TractionControlMap" Value="0"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_TCPowerCutMap" Value="0"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_TCSlipAngleMap" Value="0"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_AntilockBrakeSystemMap" Value="0"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_RevLimit" Value="6700"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_EngineBoost" Value="1"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_RegenerationMap" Value="0"  Unit="%" DPS="3"/>
+   <Numeric Id="_Setup_ElectricMotorMap" Value="0"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_Push2PassMap" Value="0"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_EngineMixture" Value="0"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_EngineBrakingMap" Value="0"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_Reverse" Value="3.36"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_RatioSet" Value="Standard"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_DiffPump" Value="0"  Unit="%" DPS="3"/>
+   <Numeric Id="_Setup_DiffPower" Value="17"  Unit="%" DPS="3"/>
+   <Numeric Id="_Setup_DiffCoast" Value="16"  Unit="%" DPS="3"/>
+   <Numeric Id="_Setup_DiffPreload" Value="1"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_RearSplit" Value=" 0.0"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_GearAutoUpShift" Value="0"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_GearAutoDownShift" Value="0"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_FLCamber" Value="-3.50"  Unit="deg" DPS="3"/>
+   <Numeric Id="_Setup_FLPressure" Value="120"  Unit="kPa" DPS="3"/>
+   <Numeric Id="_Setup_FLPacker" Value="N/A"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_FLSpring" Value="900lbf/in"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_FLTenderSpring" Value="0"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_FLTenderTravel" Value="0"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_FLSpringRubber" Value="0"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_FLRideHeight" Value="2.0"  Unit="cm" DPS="3"/>
+   <Numeric Id="_Setup_FLSlowBump" Value="5"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_FLFastBump" Value="5"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_FLSlowRebound" Value="5"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_FLFastRebound" Value="5"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_FLBrakeDisc" Value="2.60"  Unit="cm" DPS="3"/>
+   <Numeric Id="_Setup_FLBrakePad" Value="1"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_FRCamber" Value="-3.50"  Unit="deg" DPS="3"/>
+   <Numeric Id="_Setup_FRPressure" Value="120"  Unit="kPa" DPS="3"/>
+   <Numeric Id="_Setup_FRPacker" Value="N/A"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_FRSpring" Value="900lbf/in"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_FRTenderSpring" Value="0"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_FRTenderTravel" Value="0"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_FRSpringRubber" Value="0"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_FRRideHeight" Value="2.0"  Unit="cm" DPS="3"/>
+   <Numeric Id="_Setup_FRSlowBump" Value="5"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_FRFastBump" Value="5"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_FRSlowRebound" Value="5"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_FRFastRebound" Value="5"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_FRBrakeDisc" Value="2.60"  Unit="cm" DPS="3"/>
+   <Numeric Id="_Setup_FRBrakePad" Value="1"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_RLCamber" Value="-2.20"  Unit="deg" DPS="3"/>
+   <Numeric Id="_Setup_RLPressure" Value="114"  Unit="kPa" DPS="3"/>
+   <Numeric Id="_Setup_RLPacker" Value="N/A"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_RLSpring" Value="900lbf/in"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_RLTenderSpring" Value="0"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_RLTenderTravel" Value="0"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_RLSpringRubber" Value="0"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_RLRideHeight" Value="3.5"  Unit="cm" DPS="3"/>
+   <Numeric Id="_Setup_RLSlowBump" Value="5"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_RLFastBump" Value="5"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_RLSlowRebound" Value="5"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_RLFastRebound" Value="5"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_RLBrakeDisc" Value="2.60"  Unit="cm" DPS="3"/>
+   <Numeric Id="_Setup_RLBrakePad" Value="1"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_RRCamber" Value="-2.20"  Unit="deg" DPS="3"/>
+   <Numeric Id="_Setup_RRPressure" Value="114"  Unit="kPa" DPS="3"/>
+   <Numeric Id="_Setup_RRPacker" Value="N/A"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_RRSpring" Value="900lbf/in"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_RRTenderSpring" Value="0"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_RRTenderTravel" Value="0"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_RRSpringRubber" Value="0"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_RRRideHeight" Value="3.5"  Unit="cm" DPS="3"/>
+   <Numeric Id="_Setup_RRSlowBump" Value="5"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_RRFastBump" Value="5"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_RRSlowRebound" Value="5"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_RRFastRebound" Value="5"  Unit="" DPS="0"/>
+   <Numeric Id="_Setup_RRBrakeDisc" Value="2.60"  Unit="cm" DPS="3"/>
+   <Numeric Id="_Setup_RRBrakePad" Value="1"  Unit="" DPS="0"/>
+
+  </Details>
+ </Layers>
+</LDXFile>
